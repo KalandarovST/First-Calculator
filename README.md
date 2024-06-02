@@ -17,6 +17,6 @@
 
 - dotnet new console (Git Bash consoli yordamida biz VSCode ga kirmasdan ham buyruq berib yangi proekt ocha olamiz.)
 
-- dotnet run (Endi esa, ochgan proektimizni run qilib ko`ramiz.)
+- dotnet run (Endi esa, ochgan repositorymizni run qilib ko`ramiz.)
 
 - git status (hozirgacha bo`lgan jarayonlarni ko'rishimiz uchun.)
